@@ -3,6 +3,12 @@ High Availablity
 Scalability
 Maintainability
 
+Unique ID generation (64bits)
+1. Flikr Database ticket service
+2. Twitter Snowflake
+3. UUID
+4. MongoDB 96bits ID generator
+
 Hit Counter
 https://aonecode.com/getArticle/211
 

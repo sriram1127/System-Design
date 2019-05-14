@@ -2,6 +2,7 @@ Load balancer
 High Availablity
 Scalability
 Maintainability
+Round Robin
 
 Unique ID generation (64bits)
 1. Flikr Database ticket service

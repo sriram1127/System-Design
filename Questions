@@ -3,6 +3,13 @@ High Availablity
 Scalability
 Maintainability
 Round Robin
+Sharding or Data Partitioning
+Performance
+Hashing
+Data Integrity
+Composition
+Uniform load distribution
+Expandable
 
 Unique ID generation (64bits)
 1. Flikr Database ticket service

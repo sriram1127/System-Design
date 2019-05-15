@@ -11,6 +11,7 @@ Composition
 Uniform load distribution
 Expandable
 Downtime
+Single point of failure
 
 Unique ID generation (64bits)
 1. Flikr Database ticket service

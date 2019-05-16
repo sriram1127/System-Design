@@ -6,12 +6,25 @@ Round Robin
 Sharding or Data Partitioning
 Performance
 Hashing
+Consistent Hashing
 Data Integrity
 Composition
 Uniform load distribution
 Expandable
 Downtime
 Single point of failure
+Process and Threads
+Producer and Consumer Algorithm
+Redis 
+Kafka Queue
+TCP HTTP Protocal
+
+
+SQL vs NoSQL
+SQL
+ACID Atomicity - Consistency - Isolation - Durability
+NOSQL
+Eventually Consistent - Scalable
 
 Unique ID generation (64bits)
 1. Flikr Database ticket service

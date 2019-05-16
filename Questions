@@ -19,6 +19,7 @@ Producer and Consumer Algorithm
 Redis 
 Kafka Queue
 TCP HTTP Protocal
+Unix or Epoch Time
 
 
 SQL vs NoSQL

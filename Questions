@@ -20,6 +20,7 @@ Redis
 Kafka Queue
 TCP HTTP Protocal
 Unix or Epoch Time
+Staging Environment
 
 
 Blue Green Deployment

@@ -1,0 +1,13 @@
+Questions
+1. How many urls ?
+2. How many requests per second ?
+3. Security Concerns ?
+
+
+1. Random number generation
+2. 62^7 yields 3.5 trillion numbers
+3. Use redis cache
+4. Use counter(even + odd) might work
+5. Zookeeper API, Twitter snowflake
+6. Load Balancer
+7. Distribution system

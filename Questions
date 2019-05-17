@@ -21,6 +21,7 @@ Kafka Queue
 TCP HTTP Protocal
 Unix or Epoch Time
 Staging Environment
+Continuous Delivery & continuous Integration
 
 
 Blue Green Deployment

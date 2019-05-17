@@ -20,8 +20,10 @@ Redis
 Kafka Queue
 TCP HTTP Protocal
 Unix or Epoch Time
-Blue Green Deployment
 
+
+Blue Green Deployment
+https://martinfowler.com/bliki/BlueGreenDeployment.html
 
 SQL vs NoSQL
 SQL

@@ -1,0 +1,19 @@
+How many users ?
+chat app or need to include media messages and voip calls?
+encryption needed ?
+Group msgs ?
+Login & Authentication thru Gmail/facebook?
+
+Functionalities
+1. MessageId, UserId
+2. Http and different storage and web server for media messages
+3. Duplex System.
+4. Heartbeat for last seen
+5. Queue for messages
+6. Schedular for backup (configurable)
+7. local storage(lightweight) if the system is offline
+8. Sync the time with the server
+9. Scalable
+10. msg character limit is 16 bytes
+11. 
+

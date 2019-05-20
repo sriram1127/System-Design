@@ -4,6 +4,7 @@ CAP theorem
 Redis or In-memory cache
 Load balancer
 High Availablity
+Serviceability or Manageability
 Scalability
 Maintainability
 Round Robin

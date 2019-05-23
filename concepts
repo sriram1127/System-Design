@@ -54,3 +54,10 @@ https://aonecode.com/getArticle/211
 Links
 https://github.com/checkcheckzz/system-design-interview
 
+TCP vs UDP 
+TCP Transmission Control Protocol
+reliable, error checking, no corruption, packet resent if missed, high payload
+UDP User Datagram Protocol
+Faster, no error checking, used in games and streaming, packets not resent if missed.
+
+

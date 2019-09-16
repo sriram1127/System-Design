@@ -94,7 +94,15 @@ Separate products based on departments ?
 PrimaryKey(ItemA, ItemB), count
 N * N connections
 Graph Problem
-Process the table and get recommendation
+Process the table and get recommendation each night
+Back the daily pair count.
+move to a server based on the hash of the product id
+once the product is purchased, write or queue the product along with all the product bought along within one year.
+if failed, can lookup the main purchase table.
+
+Recommendation Process.
+For each server, for each product maintain a min heap of size k and move the max count to the heap.
+and store it to a recommendation table.
 
 
 

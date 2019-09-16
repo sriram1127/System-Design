@@ -84,6 +84,17 @@ To maintain concurrency - use concurrent hashmap - lock the object
 
 Product, Item Recommendation System
 -------------------------------------
+How much is the purchase gap ?
+How many recommendation products ?
+How big is the system ? Scaling
+When to show the recommendations ?
+Separate products based on departments ?
+
+
+PrimaryKey(ItemA, ItemB), count
+N * N connections
+Graph Problem
+Process the table and get recommendation
 
 
 

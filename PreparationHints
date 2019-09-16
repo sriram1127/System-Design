@@ -41,7 +41,7 @@ can divide servers based on the Hashing of the clientId
 Load Balancing
 use array as circular queue
 isAllowed(clientId)
-
+System.currentTimeMillis();
 clientId as Key
 
 Map<Integer, HitCounter>

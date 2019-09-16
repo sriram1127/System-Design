@@ -122,6 +122,30 @@ Downtime for blue/green deployments.
 https://www.coursera.org/lecture/ml-foundations/collaborative-filtering-people-who-bought-this-also-bought-CdmdR
 
 
+Paste Bin
+-----------
+create a content, update the content, read the content
+generate unique url for the content for read
+content expires after some time
+create timer for the content to expire
+generate unique id 
+generate url based on the unique id
+use redis for frequently accessed content
+distribute the request based on the userid
+how many read and writes per second
+can allowed to edit the content - need a lock on this 
+what to show when the content expires ?
+can reuse the key after content expiration ?
+Does users need to login to create the content?
+how big is the content ? limit on the content
+Traffic and overloading issues - Adding and removing servers - consistent hashing
+no of limits for the users to write on the server - security measures 
+clearup cache after the records gets expired
+
+
+
+
+
 
 
 

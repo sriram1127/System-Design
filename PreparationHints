@@ -112,6 +112,11 @@ Age, Gender, Geographical location, Weather, Trend, Departments
 If a million people bought TV and a box of eggs together then there must be some truth to the relationship. 
 It is hard to come up with rules that can connect TV with eggs.
 Train the regression model based on the analysis.
+real time processing
+map/reduce in Spark. 
+Redis, Memcached, or DynamoDB
+CAP theorem
+Downtime for blue/green deployments.
 
 
 

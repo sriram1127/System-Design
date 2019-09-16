@@ -103,6 +103,8 @@ if failed, can lookup the main purchase table.
 Recommendation Process.
 For each server, for each product maintain a min heap of size k and move the max count to the heap.
 and store it to a recommendation table.
+parallelism - lock to update the counter
+substract the counter from prev year
 
 
 

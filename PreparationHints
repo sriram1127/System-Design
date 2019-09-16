@@ -59,6 +59,29 @@ class HitCounter {
   }
 }
 
+Hit Counter - count requests for the last five minutes
+------------------------------------------------------
+timestamps may not be in order.
+Distributed Application - scale - complex system
+
+int[] count = new int[300]; total count
+int[] times = new int[300]; time in seconds
+
+counter.hit(timestamp) 
+int idx = timestamp%300;
+if times[idx] == timestamp count[idx]++;
+if times[idx] > timestamp discard
+if times[idx] < timestamp count[idx] = 1;
+
+counter.getHits()
+System.currentTimeMillis/1000 - times[idx] < 300
+
+More servers/nodes
+Distribute based on the hashing of the user email id
+add up at the end
+To maintain currency - use concurrent hashmap - lock the object
+
+
 
 
 

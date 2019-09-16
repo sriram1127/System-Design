@@ -34,8 +34,8 @@ have special chars ?
 Differentiate Caps and lower case ?
 
 
-Rate Limiter/Hit Counter
-------------------------
+Rate Limiter
+------------
 
 can divide servers based on the Hashing of the clientId
 Load Balancing

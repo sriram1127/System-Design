@@ -106,6 +106,12 @@ and store it to a recommendation table.
 parallelism - lock to update the counter
 substract the counter from prev year
 
+Recommendation ALgorithm
+Machine Learning
+Age, Gender, Geographical location, Weather, Trend, Departments
+If a million people bought TV and a box of eggs together then there must be some truth to the relationship. 
+It is hard to come up with rules that can connect TV with eggs.
+
 
 
 

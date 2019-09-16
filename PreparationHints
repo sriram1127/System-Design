@@ -47,7 +47,7 @@ clientId as Key
 Map<Integer, HitCounter>
 
 class HitCounter {
-  longs hits[] = null;
+  longs hits[] = null; // milliseconds
   int cur = 0;
   public HitCounter() {
     initialize();

@@ -1,2 +1,21 @@
 TinyURL
 --------
+Length - 7 - 3500 billion possibilities
+1000 requests per second - 110 years
+Unique Id Generation - zookeeper - or Even/Odd id generation
+26 + 26 + 10 = 62 chars
+ToShortURL(), ToID() methods
+Load Balancing 
+Redis instances
+Consistent Hashing
+URL -> Hash -> find the node on the cluster
+Virtual Node - Hashing Algorithm to chose the node on the cluster
+Uniform random
+SQL server
+Horizonal Sharding
+Backup instances
+Read & write operations per second 
+
+
+
+

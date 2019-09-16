@@ -143,8 +143,8 @@ no of limits for the users to write on the server - security measures
 clearup cache after the records gets expired
 More users join ? 
 What to do in case of failures ?
-
-
+LRU Cache
+S3 bucket - with TTL
 
 
 

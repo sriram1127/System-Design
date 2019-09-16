@@ -18,6 +18,53 @@ Read & write operations per second
 GUII
 Security Concerns
 
+First Non repeating word 100 GB
+-------------------------------
+chars 'a' - 'z'
+average word length - 6 
+1 char - 1 byte in ASCII encoding
+Trie - host name, list object
+DoublyLinkedList - line, index of line
+Parallelism 
+26 servers
+Round robin - 100 lines
+English Dict - 5 MB 
+single spaced ?
+have special chars ?
+Differentiate Caps and lower case ?
+
+
+Rate Limiter
+--------------
+
+can divide servers based on the Hashing of the clientId
+Load Balancing
+use array as circular queue
+isAllowed(clientId)
+
+clientId as Key
+
+Map<Integer, HitCounter>
+
+class HitCounter {
+  longs hits[] = null;
+  int cur = 0;
+  public HitCounter() {
+    initialize();
+  }
+  
+  private void initialize() {
+    hits[] = new int[100];
+    Arrays.fill(Long.MAX_VALUE);
+  }
+}
+
+
+
+
+
+
+
 
 
 

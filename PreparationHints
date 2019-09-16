@@ -141,6 +141,8 @@ how big is the content ? limit on the content
 Traffic and overloading issues - Adding and removing servers - consistent hashing
 no of limits for the users to write on the server - security measures 
 clearup cache after the records gets expired
+More users join ? 
+What to do in case of failures ?
 
 
 

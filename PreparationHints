@@ -108,6 +108,7 @@ substract the counter from prev year
 
 Recommendation ALgorithm
 co - occurence matrix
+Symmetric matrix
 Machine Learning
 Age, Gender, Geographical location, Weather, Trend, Departments
 If a million people bought TV and a box of eggs together then there must be some truth to the relationship. 
@@ -119,6 +120,7 @@ Redis, Memcached, or DynamoDB
 CAP theorem
 Downtime for blue/green deployments.
 https://www.coursera.org/lecture/ml-foundations/collaborative-filtering-people-who-bought-this-also-bought-CdmdR
+
 
 
 

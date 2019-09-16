@@ -79,7 +79,7 @@ System.currentTimeMillis/1000 - times[idx] < 300
 More servers/nodes
 Distribute based on the hashing of the user email id
 add up at the end
-To maintain currency - use concurrent hashmap - lock the object
+To maintain concurrency - use concurrent hashmap - lock the object
 
 
 

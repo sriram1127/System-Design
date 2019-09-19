@@ -14,4 +14,5 @@ Facebook Messenger/we chat/ whatsapp
 1. HTTP Long Polling or web socketsor Hanging GET
 2. Ajax Polling - HTTP Overheads
 3. HBase 
+4. Reed - solomon technique to replicate and distribute
 

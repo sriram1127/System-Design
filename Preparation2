@@ -11,6 +11,6 @@ Purging/Zip
 Facebook Messenger/we chat/ whatsapp
 ------------------------------------
 
-1. HTTP Long Polling or web sockets
+1. HTTP Long Polling or web socketsor Hanging GET
 2. Ajax Polling
 

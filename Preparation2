@@ -10,6 +10,35 @@ Purging/Zip
 
 Facebook Messenger/we chat/ whatsapp
 ------------------------------------
+1. Send/read messages
+2. Send msg to individual/group
+3. Encryption messages
+4. low latency, high consistency, follow sequence order
+5. Reliability & availability
+6. Block People
+7. Change profile settings & pic
+8. Online & Offline mode
+9. push notifications for new messages
+10. Status online
+11. supports text & media messages
+
+Components & technique
+1. Client
+2. Load Balancer
+3. Chat Servers
+4. Application servers
+5. SQL Database for users
+6. Hbase for messages
+7. HTTP polling - Hanging GET
+8. public-private key encryption
+9. TTL for request & re-establish connections
+10. Sequence for messages
+11. send message - chat server - receive message - send ack
+12. Store messages for clients (users/groups)
+13. 50k connections by modern system. 10k servers for 500M
+14. store for 10 years
+15. friends Details storage
+16. heart beat
 
 1. HTTP Long Polling or web socketsor Hanging GET
 2. Ajax Polling - HTTP Overheads

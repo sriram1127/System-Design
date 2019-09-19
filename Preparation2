@@ -12,5 +12,5 @@ Facebook Messenger/we chat/ whatsapp
 ------------------------------------
 
 1. HTTP Long Polling or web socketsor Hanging GET
-2. Ajax Polling
+2. Ajax Polling - HTTP Overheads
 

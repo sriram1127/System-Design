@@ -59,5 +59,7 @@ process
 Links Finder -> Connect to host -> document download -> extract unvisited links -> store & index of the content -> repeat
 Main complexity lies in algorithm which ranks the web page.
 web page might update often.
-
+consistent hashing
+take backup of the snapshots for recovery
+crawler traps 
 

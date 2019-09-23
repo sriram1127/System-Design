@@ -62,4 +62,8 @@ web page might update often.
 consistent hashing
 take backup of the snapshots for recovery
 crawler traps 
+Bloom Filter - false positives
+checksum for documents
+parsing difficulty
+
 

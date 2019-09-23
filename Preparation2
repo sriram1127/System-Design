@@ -45,3 +45,17 @@ Components & technique
 3. HBase 
 4. Reed - solomon technique encoding to replicate and distribute
 
+Web Crawler
+-----------
+1. types - html/audio/image/videos
+2. HTTP/FTP
+3. defined to a location
+4. robot.txt - Robots exclusion protocol
+5. 15 billion pages/per month - 6200 pages per second
+6. 100kb for 1 html page - 15 PB -> 2.2 PB memory
+7. BFS/DFS/Path ascending technique
+
+process
+Links Finder -> Connect to host -> document download -> extract unvisited links -> store & index of the content -> repeat
+
+

@@ -52,11 +52,12 @@ Web Crawler
 3. defined to a location
 4. robot.txt - Robots exclusion protocol
 5. 15 billion pages/per month - 6200 pages per second
-6. 100kb for 1 html page - 15 PB -> 2.2 PB memory
+6. 100kb for 1 html page - 15 PB -> 2.2 PB memory(70%) max usage limit
 7. BFS/DFS/Path ascending technique
 
 process
 Links Finder -> Connect to host -> document download -> extract unvisited links -> store & index of the content -> repeat
-
+Main complexity lies in algorithm which ranks the web page.
+web page might update often.
 
 

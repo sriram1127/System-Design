@@ -76,5 +76,6 @@ Packets are transfered to CDN and HTTP transfer is used.
 Client stores the chucks before few milliseconds and construct the frame
 pause and go online should leave the old packets (javascript)
 Should vary the pixel quality based on the download spead
+Client ask the servers to give the peers and get the top few peers
 
 

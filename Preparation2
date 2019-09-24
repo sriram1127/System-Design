@@ -67,3 +67,14 @@ checksum for documents
 parsing difficulty
 
 
+Twitch/ video streaming sites
+-----------------------------
+Live or Offline Video Streaming
+TCP/UDP
+Some browsers dont supports UDP, - need some apps to run
+Packets are transfered to CDN and HTTP transfer is used.
+Client stores the chucks before few milliseconds and construct the frame
+pause and go online should leave the old packets (javascript)
+Should vary the pixel quality based on the download spead
+
+

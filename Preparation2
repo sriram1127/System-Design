@@ -78,5 +78,5 @@ pause and go online should leave the old packets (javascript)
 Should vary the pixel quality based on the download spead
 Client ask the servers to give the peers and get the top few peers
 Web RTC
-
+CDN is a system of distributed servers that delivers pages and content
 

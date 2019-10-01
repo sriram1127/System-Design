@@ -22,7 +22,7 @@ Sharding or Data Partitioning
 Horizotal Sharding or scaling
 Performance
 Hashing
-Consistent Hashing
+Consistent Hashing / DHT - Distributed Hash Tables
 Data Integrity
 Composition
 Uniform load distribution

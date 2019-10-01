@@ -20,6 +20,7 @@ Maintainability
 Round Robin
 Sharding or Data Partitioning
 Horizotal Sharding or scaling
+Directory based Partitioning
 Performance
 Hashing
 Consistent Hashing / DHT - Distributed Hash Tables

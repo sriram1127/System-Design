@@ -52,6 +52,11 @@ ACID Atomicity - Consistency - Isolation - Durability
 NOSQL
 Eventually Consistent - Scalable
 
+Key value DB - Redis Dynamo DB
+Document Storage - Mongo, Couch DB
+Wide column storage DB - Hbase, Cassandra DB
+Grpah DB - Neo4j & Infinite Graph 
+
 Unique ID generation (64bits)
 1. Flikr Database ticket service
 2. Twitter Snowflake

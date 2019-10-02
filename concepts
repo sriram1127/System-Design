@@ -80,6 +80,7 @@ Faster, no error checking, used in games and streaming, packets not resent if mi
 Bloom Filters
 probablistic data structure
 Space -efficient - some false positives - no false negatives - 
+More the bit array size and more the hash function - less will be the false postive - but increase the latency
 examples:
 Medium uses bloom filters for recommending post to users by filtering post which have been seen by user.
 Quora implemented a shared bloom filter in the feed backend to filter out stories that people have seen before.

@@ -78,6 +78,7 @@ Faster, no error checking, used in games and streaming, packets not resent if mi
 
 
 Bloom Filters
+probablistic data structure
 Space -efficient - some false positives - no false negatives - 
 examples:
 Medium uses bloom filters for recommending post to users by filtering post which have been seen by user.

@@ -1,4 +1,8 @@
-Distributed System Security - Authentication(login) & Authorization(contracts)
+Distributed System Security - 
+Authentication(login) & Authorization(contracts)
+Digital Signatures
+DOS attacks
+
 Eventual Consistency in microservices
 parallel computing(shared memory) vs distributed computing(no shared memory)
 Thrift & GRPC accomplish faster messaging with higher thorughput - no HTTP

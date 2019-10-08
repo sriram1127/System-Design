@@ -1,3 +1,4 @@
+parallel computing(shared memory) vs distributed computing(no shared memory)
 Thrift & GRPC accomplish faster messaging with higher thorughput - no HTTP
 CRDT - Conflict Free Replicated Data types - NP- counter
 CDN - content delivery network

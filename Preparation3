@@ -8,3 +8,4 @@ Amazon ELB  - Elastic Load Balancer
 - key/value store
 - Service Discovery
 - Multi Datacenter
+Client Side load balancing vs Dedicated Load Balancing

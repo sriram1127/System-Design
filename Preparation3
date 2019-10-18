@@ -15,3 +15,7 @@ Difference between sequence number and unique id generation
 - UUID
 - timestamp(40) + counter(14) + node unique value (10bits)
 - seq no - mongo DB 96 bits
+
+image/video storage
+- xfs file system - highly scalable file system - exabytes - 1000 Petabytes
+-mongo DB

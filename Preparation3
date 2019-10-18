@@ -9,3 +9,9 @@ Amazon ELB  - Elastic Load Balancer
 - Service Discovery
 - Multi Datacenter
 Client Side load balancing vs Dedicated Load Balancing
+
+Difference between sequence number and unique id generation
+- twitter snowflake
+- UUID
+- timestamp(40) + counter(14) + node unique value (10bits)
+- seq no - mongo DB 96 bits

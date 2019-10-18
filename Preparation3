@@ -2,3 +2,9 @@ Consistency vs Eventual Consistency vs Strong Eventual Consistency
 https://stackoverflow.com/questions/29381442/eventual-consistency-vs-strong-eventual-consistency-vs-strong-consistency
 
 CRDT - conflict Free Replicated Data Type
+
+Amazon ELB  - Elastic Load Balancer
+- Health checker
+- key/value store
+- Service Discovery
+- Multi Datacenter

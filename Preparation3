@@ -18,4 +18,4 @@ Difference between sequence number and unique id generation
 
 image/video storage
 - xfs file system - highly scalable file system - exabytes - 1000 Petabytes
--mongo DB
+- mongo DB - GridFS interface

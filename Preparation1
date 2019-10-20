@@ -1,3 +1,9 @@
+Data Base Type Based on Feature	Example of Database	Use case (When to Use)
+Key/ Value	Redis, MemcacheDB	Caching, Queue-ing, Distributing information
+Column-Oriented	Cassandra, HBase	Scaling, Keeping Unstructured, non-volatile
+Document-Oriented	MongoDB, Couchbase	Nested Information, JavaScript friendly
+Graph-Based	OrientDB, Neo4J	Handling Complex relational information. Modeling and Handling classification.
+
 TinyURL
 --------
 Length - 7 - 3500 billion possibilities

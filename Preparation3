@@ -21,5 +21,12 @@ image/video storage
 - mongo DB - GridFS interface
 
 Centralized logging for distributed node
+--------------------------------------------
 custerlog microsoft
 Stripe facebook
+Logstash + Elasticsearch + Kibana + Redis or RabbitMQ + NLog or Log4net
+Storage + Search & Analytics: Elasticsearch
+Collecting & Parsing : Logstash
+Visualize: Kibana
+Queue&Buffer: Redis
+In Application: NLog

@@ -30,3 +30,5 @@ Collecting & Parsing : Logstash
 Visualize: Kibana
 Queue&Buffer: Redis
 In Application: NLog
+
+Netflix- Different formats & qualities - Transcoding

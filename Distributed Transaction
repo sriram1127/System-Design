@@ -1,0 +1,6 @@
+Transaction in a microservice architecture
+how to achieve the ACID properties 
+
+Two ways :
+2 phase commit
+Eventual Consistency/compensation-SAGA

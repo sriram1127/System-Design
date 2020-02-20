@@ -3,4 +3,5 @@ how to achieve the ACID properties
 
 Two ways :
 2 phase commit
+-Transaction Coordinator
 Eventual Consistency/compensation-SAGA

@@ -3,5 +3,14 @@ how to achieve the ACID properties
 
 Two ways :
 2 phase commit
--Transaction Coordinator
+-Transaction Coordinator <---
+- takes time cos of extra --|
+- need locking
+- possibility of dead lock
+- not very much scalable
+
 Eventual Consistency/compensation-SAGA
+- scalable
+- read isolation makes it difficult to debug and analyze
+- good way of doing distributed transaction
+

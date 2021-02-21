@@ -1,0 +1,12 @@
+1. Requirements clarifications -> functionalities
+2. Scope -> volume of data, users
+3. Type of application, UI 
+4. Security, Authenticaion Mechanism, firewall settings, 
+5. Scalability, Availability, Consistency, Maintainability
+6. Components in the system  (load balancer, app servers, streaming queues, other things)
+7. RDBMS vs NoSql
+8. Estimation and Distribution
+9. Required APIs
+10. Tradeoffs
+11. Logics: consistent hashing, Single point failures, logging, debugging
+12. 

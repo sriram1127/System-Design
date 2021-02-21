@@ -8,5 +8,5 @@
 8. Estimation and Distribution
 9. Required APIs
 10. Tradeoffs
-11. Logics: consistent hashing, Single point failures, logging, debugging
+11. Logics: consistent hashing, Single point failures, logging, debugging, Archive/purging data
 12. 
